@@ -8,6 +8,7 @@ const App  = ()  => {
     
     <div>
       <Navigation/>
+      <h1>Hello</h1>
       <HeroSection/>
     </div>
 
